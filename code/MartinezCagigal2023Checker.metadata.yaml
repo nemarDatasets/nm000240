@@ -1,0 +1,54 @@
+_dataset:
+  class: MartinezCagigal2023Checker
+  code: MartinezCagigal2023Checkercvep
+  doi: https://doi.org/10.71569/7c67-v596
+  interval: !!python/tuple
+  - 0
+  - 1
+  n_subjects: 16
+  paradigm: cvep
+acquisition:
+  channel_types:
+    eeg: 16
+  line_freq: 50.0
+  montage: standard_1005
+  n_channels: 16
+  sampling_rate: 256.0
+documentation:
+  associated_paper_doi: 10.3389/fnhum.2023.1288438
+  contact_info:
+  - victor.martinez@gib.tel.uva.es
+  country: ES
+  data_url: https://doi.org/10.71569/7c67-v596
+  doi: 10.71569/7c67-v596
+  ethics_approval:
+  - Approved by the local ethics committee; all participants provided informed consent
+  how_to_acknowledge: 'Please cite: Fernández-Rodríguez et al. (2023). Influence of spatial frequency in visual stimuli for
+    cVEP-based BCIs: evaluation of performance and user experience. Frontiers in Human Neuroscience, 17, 1288438. https://doi.org/10.3389/fnhum.2023.1288438'
+  institution: University of Valladolid
+  institution_address: Paseo de Belén, 15, 47011, Valladolid, Spain
+  institution_department: Biomedical Engineering Group, ETSIT
+  investigators:
+  - Álvaro Fernández-Rodríguez
+  - Víctor Martínez-Cagigal
+  - Eduardo Santamaría-Vázquez
+  - Ricardo Ron-Angevin
+  - Roberto Hornero
+  license: CC-BY-NC-SA-4.0
+  publication_year: 2023
+  related_paper_dois:
+  - 10.1016/j.cmpb.2023.107357
+  repository: U Valladoid
+  senior_author: Roberto Hornero
+experiment:
+  class_labels:
+  - '0.0'
+  - '1.0'
+  n_classes: 2
+  paradigm: cvep
+participants:
+  health_status: healthy
+  n_subjects: 16
+  species: homo sapiens
+runs_per_session: 3
+sessions_per_subject: 8

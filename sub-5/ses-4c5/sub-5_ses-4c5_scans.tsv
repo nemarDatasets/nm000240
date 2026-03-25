@@ -1,0 +1,4 @@
+﻿filename	acq_time
+eeg/sub-5_ses-4c5_task-cvep_run-1_recording-train_eeg.bdf	2023-08-06T14:19:00.000000Z
+eeg/sub-5_ses-4c5_task-cvep_run-2_recording-train_eeg.bdf	2023-08-06T14:22:00.000000Z
+eeg/sub-5_ses-4c5_task-cvep_run-3_recording-test_eeg.bdf	2023-08-06T14:26:00.000000Z
