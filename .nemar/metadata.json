@@ -1,0 +1,112 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "enriched",
+  "authors": {
+    "Álvaro Fernández-Rodríguez": {},
+    "Víctor Martínez-Cagigal": {
+      "orcid": "0000-0002-3822-1787",
+      "affiliations": [
+        {
+          "name": "Universidad de Valladolid",
+          "identifier": "https://ror.org/01fvbaw18",
+          "scheme": "ROR"
+        }
+      ]
+    },
+    "Eduardo Santamaría-Vázquez": {
+      "orcid": "0000-0002-7688-4258"
+    },
+    "Ricardo Ron-Angevin": {},
+    "Roberto Hornero": {
+      "orcid": "0000-0001-9915-2570"
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.71569/7c67-v596",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.3389/fnhum.2023.1288438",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000240",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000240",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1016/j.cmpb.2023.107357",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "Checkerboard m-sequence-based c-VEP dataset from",
+  "license": "CC-BY-NC-SA-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "652.4 MB (384 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "description": "A derivative EEG dataset comprising checkerboard m-sequence-based code-modulated visual evoked potentials (c-VEP) recordings from 16 healthy subjects across 8 sessions with 3 runs per session. The dataset evaluates the influence of spatial frequency in visual stimuli for brain-computer interface applications, with 16-channel EEG data sampled at 256 Hz and annotated with HED 8.4.0 event labels for two stimulus intensity classes.",
+  "methods_description": "EEG data were acquired at 256 Hz sampling rate using 16 channels in standard 1005 montage with 50 Hz line frequency. The experimental paradigm employed checkerboard m-sequence-based c-VEP stimulation with two stimulus classes. Each subject completed 8 sessions, with 3 runs per session (2 training, 1 testing), and trial intervals of 0-1 second.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "code-modulated visual evoked potentials"
+    },
+    {
+      "term": "visual stimulation"
+    },
+    {
+      "term": "spatial frequency"
+    },
+    {
+      "term": "checkerboard patterns"
+    },
+    {
+      "term": "derivative dataset"
+    },
+    {
+      "term": "HED annotations"
+    },
+    {
+      "term": "MOABB"
+    }
+  ],
+  "source_hash": "234ca43fc40c136e872ab54780684c696496a59f322ac1f08729da424021f7d1"
+}
