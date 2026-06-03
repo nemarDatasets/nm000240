@@ -1,37 +1,39 @@
 {
-	"Name": "Checkerboard m-sequence-based c-VEP dataset from",
-	"BIDSVersion": "1.9.0",
-	"HEDVersion": "8.4.0",
-	"DatasetType": "derivative",
-	"License": "CC-BY-NC-SA-4.0",
-	"Authors": [
-		"\u00c1lvaro Fern\u00e1ndez-Rodr\u00edguez",
-		"V\u00edctor Mart\u00ednez-Cagigal",
-		"Eduardo Santamar\u00eda-V\u00e1zquez",
-		"Ricardo Ron-Angevin",
-		"Roberto Hornero"
-	],
-	"HowToAcknowledge": "Please cite: Fern\u00e1ndez-Rodr\u00edguez et al. (2023). Influence of spatial frequency in visual stimuli for cVEP-based BCIs: evaluation of performance and user experience. Frontiers in Human Neuroscience, 17, 1288438. https://doi.org/10.3389/fnhum.2023.1288438",
-	"EthicsApprovals": [
-		"Approved by the local ethics committee; all participants provided informed consent"
-	],
-	"ReferencesAndLinks": [
-		"https://doi.org/10.71569/7c67-v596",
-		"10.3389/fnhum.2023.1288438"
-	],
-	"GeneratedBy": [
-		{
-			"CodeURL": "https://github.com/NeuroTechX/moabb",
-			"Name": "moabb",
-			"Description": "Mother of All BCI Benchmarks",
-			"Version": "1.5.0"
-		}
-	],
-	"SourceDatasets": [
-		{
-			"DOI": "https://doi.org/10.71569/7c67-v596",
-			"URL": "https://doi.org/10.71569/7c67-v596"
-		}
-	],
-	"PublicationYear": 2023
+  "Name": "Checkerboard m-sequence-based c-VEP dataset from",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-NC-SA-4.0",
+  "Authors": [
+    "Álvaro Fernández-Rodríguez",
+    "Víctor Martínez-Cagigal",
+    "Eduardo Santamaría-Vázquez",
+    "Ricardo Ron-Angevin",
+    "Roberto Hornero"
+  ],
+  "HowToAcknowledge": "Please cite: Fernández-Rodríguez et al. (2023). Influence of spatial frequency in visual stimuli for cVEP-based BCIs: evaluation of performance and user experience. Frontiers in Human Neuroscience, 17, 1288438. https://doi.org/10.3389/fnhum.2023.1288438",
+  "EthicsApprovals": [
+    "Approved by the local ethics committee; all participants provided informed consent"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.71569/7c67-v596",
+    "10.3389/fnhum.2023.1288438"
+  ],
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.5.0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "https://doi.org/10.71569/7c67-v596",
+      "URL": "https://doi.org/10.71569/7c67-v596"
+    }
+  ],
+  "PublicationYear": 2023,
+  "DatasetDOI": "10.82901/nemar.nm000240",
+  "Version": "1.0.0"
 }
