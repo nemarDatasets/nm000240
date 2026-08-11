@@ -1,0 +1,60 @@
+{
+ "dataset": "nm000240",
+ "moabb_class": "MartinezCagigal2023Checker",
+ "moabb_version_used": "1.5.0",
+ "retrieved": "2026-08-11",
+ "retrieved_by": "moabb.datasets.MartinezCagigal2023Checker.data_path()",
+ "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-martinezcagigal2023checkercvep-data/bitstream/handle/10324/70973",
+ "license": "CC-BY-NC-SA-4.0",
+ "doi": "https://doi.org/10.71569/7c67-v596",
+ "naming": "upstream_filenames_restored",
+ "n_files": 9,
+ "total_bytes": 460841059,
+ "files": [
+  {
+   "file": "SF04.zip",
+   "bytes": 52690903,
+   "sha256": "242ef922e09b89c3ba02e5a338ca78f61f967f944717f648798f219fa01a1747"
+  },
+  {
+   "file": "SF07.zip",
+   "bytes": 49445304,
+   "sha256": "a251f0ab7bb76fb3c5a9e76ba3247df46634e8e7c554ec6d6fbea2e873e5ddd9"
+  },
+  {
+   "file": "SF10.zip",
+   "bytes": 55443655,
+   "sha256": "f3a1b8aef99a8ed2ca9521c60e340b99cda3c07c2ca973938ea3bc7bd39a0cbf"
+  },
+  {
+   "file": "SF11.zip",
+   "bytes": 49671099,
+   "sha256": "9d41622b7dc5267fb333a6186bb75701bbc1268929e903ca0a420adf57343622"
+  },
+  {
+   "file": "SF12.zip",
+   "bytes": 51710722,
+   "sha256": "1f1b9911efac9dea0274560547f16379fd06d4f3177d00c364d700e3bf898aa9"
+  },
+  {
+   "file": "SF13.zip",
+   "bytes": 49458511,
+   "sha256": "0d33c59861851b285a98142c75614c7059f7a08ec26a5479fadec70642cfc71e"
+  },
+  {
+   "file": "SF14.zip",
+   "bytes": 49014009,
+   "sha256": "b47ecc7f94ae42f265764b1337526953e6e972062a15f072c04b7f65959f7711"
+  },
+  {
+   "file": "SF15.zip",
+   "bytes": 50613897,
+   "sha256": "65a82a84002e3522b896b9c3f65b736411d8772bdafd39cd32225f8307810bf6"
+  },
+  {
+   "file": "SF16.zip",
+   "bytes": 52792959,
+   "sha256": "c8f2ca97876ad4f455bdd7a6e3f0cec46f4d15ab56841dc7048211fef712c172"
+  }
+ ]
+}
