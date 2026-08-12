@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Checkerboard m-sequence-based c-VEP dataset from",
-  "description": "A derivative EEG dataset containing checkerboard m-sequence-based code-modulated visual evoked potential (c-VEP) recordings from 16 healthy participants across 8 sessions. The dataset evaluates the influence of spatial frequency in visual stimuli for brain-computer interface applications, with 16-channel EEG data sampled at 256 Hz and annotated with HED 8.4.0 tags for standardized event representation.",
-  "methods_description": "EEG data were acquired from 16 channels using a standard 1005 montage at a sampling rate of 256 Hz with 50 Hz line frequency filtering. Participants completed 8 sessions with 3 runs per session (2 training, 1 testing), viewing checkerboard m-sequence-based visual stimuli in a c-VEP paradigm with 2 classes.",
+  "description": "A checkerboard m-sequence-based code-modulated visual evoked potential (c-VEP) derivative dataset comprising EEG recordings from 16 healthy subjects across 8 sessions with 3 runs per session. This processed dataset is derived from the original source dataset (DOI: 10.71569/7c67-v596) and evaluates the influence of spatial frequency in visual stimuli for brain-computer interface applications, with 16-channel EEG data sampled at 256 Hz during visual stimulation with two intensity conditions (0.0 and 1.0).",
+  "methods_description": "EEG data were acquired from 16 healthy subjects using a standard 1005 montage with 16 channels sampled at 256 Hz (50 Hz line frequency). Each subject completed 8 sessions with 3 runs per session. The experimental paradigm employed checkerboard m-sequence-based visual stimuli presented in two intensity conditions (0.0 and 1.0), with trial intervals of 0-1 second.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -44,9 +44,6 @@
     },
     {
       "term": "checkerboard stimuli"
-    },
-    {
-      "term": "derivative dataset"
     },
     {
       "term": "MOABB"
@@ -95,7 +92,7 @@
     "eeg"
   ],
   "sizes": [
-    "1.1 GB (393 files)"
+    "1.5 GB (400 files)"
   ],
   "formats": [
     ".bdf",
@@ -106,5 +103,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "5e06586d742453e3753bce750371472b50850066dae08a313ea81ecfea3efd98"
+  "source_hash": "289f706612eeb50d7a86086380b5b1d9895db6fd41f08bd35da41da5a24eee17"
 }
