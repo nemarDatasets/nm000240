@@ -8,8 +8,8 @@ URL remaining reachable.
 |---|---|
 | MOABB class | `moabb.datasets.MartinezCagigal2023Checker` (moabb 1.5.0) |
 | Retrieved | 2026-08-11 |
-| Files | 9 |
-| Total size | 460.8 MB |
+| Files | 16 |
+| Total size | 814.4 MB |
 | License | CC-BY-NC-SA-4.0 |
 | Upstream DOI | https://doi.org/10.71569/7c67-v596 |
 

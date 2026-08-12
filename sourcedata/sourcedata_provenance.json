@@ -8,18 +8,53 @@
  "license": "CC-BY-NC-SA-4.0",
  "doi": "https://doi.org/10.71569/7c67-v596",
  "naming": "upstream_filenames_restored",
- "n_files": 9,
- "total_bytes": 460841059,
+ "n_files": 16,
+ "total_bytes": 814414041,
  "files": [
+  {
+   "file": "SF01.zip",
+   "bytes": 50333631,
+   "sha256": "b7f647566e96a810ff71d595ed38421cfff5bc2862f957ea74a6b4ea46bae91d"
+  },
+  {
+   "file": "SF02.zip",
+   "bytes": 49745234,
+   "sha256": "a0bbdd18f8befb8ba560af7045c6cc2336dfc94273c5d336b77b6facfef0f391"
+  },
+  {
+   "file": "SF03.zip",
+   "bytes": 51766931,
+   "sha256": "30ce077874b795b6d58c7ef8d0eda1c0ea1354ccd61ac79a9449ab39a5dcb71d"
+  },
   {
    "file": "SF04.zip",
    "bytes": 52690903,
    "sha256": "242ef922e09b89c3ba02e5a338ca78f61f967f944717f648798f219fa01a1747"
   },
   {
+   "file": "SF05.zip",
+   "bytes": 49868359,
+   "sha256": "bb3edc38aaa3dce2f232d4a454a8c1938635256611df747db0d13096c9229e96"
+  },
+  {
+   "file": "SF06.zip",
+   "bytes": 49048694,
+   "sha256": "e3d9b6dec903e9dfea2e66effda78edbd862d812bd8f602563bc56397116997b"
+  },
+  {
    "file": "SF07.zip",
    "bytes": 49445304,
    "sha256": "a251f0ab7bb76fb3c5a9e76ba3247df46634e8e7c554ec6d6fbea2e873e5ddd9"
+  },
+  {
+   "file": "SF08.zip",
+   "bytes": 50784430,
+   "sha256": "d0b2b1d618afaa7fd8f60893b1b7939f66beed8c7591426c064f53bc63f05a1d"
+  },
+  {
+   "file": "SF09.zip",
+   "bytes": 52025703,
+   "sha256": "224c045aa3ac77a38b0c7ad6aed81caec7da24454d920272cb37d7db4f857e87"
   },
   {
    "file": "SF10.zip",
