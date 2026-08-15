@@ -1,4 +1,4 @@
 ﻿filename	acq_time
-eeg/sub-3_ses-1c2_task-cvep_run-1_recording-train_eeg.bdf	2023-07-06T12:42:00.000000Z
-eeg/sub-3_ses-1c2_task-cvep_run-2_recording-train_eeg.bdf	2023-07-06T12:40:00.000000Z
-eeg/sub-3_ses-1c2_task-cvep_run-3_recording-test_eeg.bdf	2023-07-06T12:46:00.000000Z
+eeg/sub-3_ses-1c2_task-cvep_acq-train_run-1_eeg.bdf	2023-07-06T12:42:00.000000Z
+eeg/sub-3_ses-1c2_task-cvep_acq-train_run-2_eeg.bdf	2023-07-06T12:40:00.000000Z
+eeg/sub-3_ses-1c2_task-cvep_acq-test_run-3_eeg.bdf	2023-07-06T12:46:00.000000Z
