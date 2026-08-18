@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Checkerboard m-sequence-based c-VEP dataset from",
-  "description": "A derivative EEG dataset containing checkerboard m-sequence-based code-modulated visual evoked potential (c-VEP) recordings from 16 healthy participants across 8 sessions. The dataset evaluates the influence of spatial frequency in visual stimuli for brain-computer interface applications, with 16-channel EEG data sampled at 256 Hz using a standard 10-05 montage. This resource supports benchmarking and development of c-VEP-based BCI systems.",
-  "methods_description": "EEG data were acquired from 16 healthy participants using 16 channels at 256 Hz sampling rate with a standard 1005 montage and 50 Hz line frequency. Each participant completed 8 sessions with 3 runs per session (2 training, 1 testing). Visual stimuli consisted of checkerboard m-sequence patterns presented in a two-class c-VEP paradigm.",
+  "description": "A derivative EEG dataset containing checkerboard m-sequence-based code-modulated visual evoked potential (c-VEP) recordings from 16 healthy participants across 8 sessions. This dataset is derived from the source dataset by Martínez-Cagigal et al. (2025) (DOI: 10.71569/7c67-v596) and is described in the publication by Fernández-Rodríguez et al. (2023) in Frontiers in Human Neuroscience. The dataset evaluates the influence of spatial frequency in visual stimuli for brain-computer interface applications, with 16-channel EEG data sampled at 256 Hz during a two-class visual stimulation paradigm.",
+  "methods_description": "EEG data were acquired at 256 Hz sampling rate using 16 channels in a standard 1005 montage with 50 Hz line frequency. Participants completed 8 sessions with 3 runs per session (2 training, 1 testing), viewing checkerboard m-sequence-based visual stimuli in a two-class c-VEP paradigm.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -43,9 +43,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D014793"
     },
     {
-      "term": "code-modulated visual evoked potential",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D014793"
+      "term": "code-modulated VEP"
     },
     {
       "term": "spatial frequency",
@@ -54,12 +52,6 @@
     },
     {
       "term": "checkerboard stimuli"
-    },
-    {
-      "term": "BCI paradigm"
-    },
-    {
-      "term": "MOABB"
     }
   ],
   "related_identifiers": [
@@ -116,5 +108,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "5e101bd8caf5d18e433d2b828695725e486b275db4e33d27c33dddd4dd8161b5"
+  "source_hash": "def03dc9a33e58cb992aee11f0b34799d4aaa79e4cf2f0bba554a488928e40f4"
 }
