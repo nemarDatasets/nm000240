@@ -14,82 +14,99 @@
   {
    "file": "SF01.zip",
    "bytes": 50333631,
-   "sha256": "b7f647566e96a810ff71d595ed38421cfff5bc2862f957ea74a6b4ea46bae91d"
+   "sha256": "b7f647566e96a810ff71d595ed38421cfff5bc2862f957ea74a6b4ea46bae91d",
+   "subject": "1"
   },
   {
    "file": "SF02.zip",
    "bytes": 49745234,
-   "sha256": "a0bbdd18f8befb8ba560af7045c6cc2336dfc94273c5d336b77b6facfef0f391"
+   "sha256": "a0bbdd18f8befb8ba560af7045c6cc2336dfc94273c5d336b77b6facfef0f391",
+   "subject": "2"
   },
   {
    "file": "SF03.zip",
    "bytes": 51766931,
-   "sha256": "30ce077874b795b6d58c7ef8d0eda1c0ea1354ccd61ac79a9449ab39a5dcb71d"
+   "sha256": "30ce077874b795b6d58c7ef8d0eda1c0ea1354ccd61ac79a9449ab39a5dcb71d",
+   "subject": "3"
   },
   {
    "file": "SF04.zip",
    "bytes": 52690903,
-   "sha256": "242ef922e09b89c3ba02e5a338ca78f61f967f944717f648798f219fa01a1747"
+   "sha256": "242ef922e09b89c3ba02e5a338ca78f61f967f944717f648798f219fa01a1747",
+   "subject": "4"
   },
   {
    "file": "SF05.zip",
    "bytes": 49868359,
-   "sha256": "bb3edc38aaa3dce2f232d4a454a8c1938635256611df747db0d13096c9229e96"
+   "sha256": "bb3edc38aaa3dce2f232d4a454a8c1938635256611df747db0d13096c9229e96",
+   "subject": "5"
   },
   {
    "file": "SF06.zip",
    "bytes": 49048694,
-   "sha256": "e3d9b6dec903e9dfea2e66effda78edbd862d812bd8f602563bc56397116997b"
+   "sha256": "e3d9b6dec903e9dfea2e66effda78edbd862d812bd8f602563bc56397116997b",
+   "subject": "6"
   },
   {
    "file": "SF07.zip",
    "bytes": 49445304,
-   "sha256": "a251f0ab7bb76fb3c5a9e76ba3247df46634e8e7c554ec6d6fbea2e873e5ddd9"
+   "sha256": "a251f0ab7bb76fb3c5a9e76ba3247df46634e8e7c554ec6d6fbea2e873e5ddd9",
+   "subject": "7"
   },
   {
    "file": "SF08.zip",
    "bytes": 50784430,
-   "sha256": "d0b2b1d618afaa7fd8f60893b1b7939f66beed8c7591426c064f53bc63f05a1d"
+   "sha256": "d0b2b1d618afaa7fd8f60893b1b7939f66beed8c7591426c064f53bc63f05a1d",
+   "subject": "8"
   },
   {
    "file": "SF09.zip",
    "bytes": 52025703,
-   "sha256": "224c045aa3ac77a38b0c7ad6aed81caec7da24454d920272cb37d7db4f857e87"
+   "sha256": "224c045aa3ac77a38b0c7ad6aed81caec7da24454d920272cb37d7db4f857e87",
+   "subject": "9"
   },
   {
    "file": "SF10.zip",
    "bytes": 55443655,
-   "sha256": "f3a1b8aef99a8ed2ca9521c60e340b99cda3c07c2ca973938ea3bc7bd39a0cbf"
+   "sha256": "f3a1b8aef99a8ed2ca9521c60e340b99cda3c07c2ca973938ea3bc7bd39a0cbf",
+   "subject": "10"
   },
   {
    "file": "SF11.zip",
    "bytes": 49671099,
-   "sha256": "9d41622b7dc5267fb333a6186bb75701bbc1268929e903ca0a420adf57343622"
+   "sha256": "9d41622b7dc5267fb333a6186bb75701bbc1268929e903ca0a420adf57343622",
+   "subject": "11"
   },
   {
    "file": "SF12.zip",
    "bytes": 51710722,
-   "sha256": "1f1b9911efac9dea0274560547f16379fd06d4f3177d00c364d700e3bf898aa9"
+   "sha256": "1f1b9911efac9dea0274560547f16379fd06d4f3177d00c364d700e3bf898aa9",
+   "subject": "12"
   },
   {
    "file": "SF13.zip",
    "bytes": 49458511,
-   "sha256": "0d33c59861851b285a98142c75614c7059f7a08ec26a5479fadec70642cfc71e"
+   "sha256": "0d33c59861851b285a98142c75614c7059f7a08ec26a5479fadec70642cfc71e",
+   "subject": "13"
   },
   {
    "file": "SF14.zip",
    "bytes": 49014009,
-   "sha256": "b47ecc7f94ae42f265764b1337526953e6e972062a15f072c04b7f65959f7711"
+   "sha256": "b47ecc7f94ae42f265764b1337526953e6e972062a15f072c04b7f65959f7711",
+   "subject": "14"
   },
   {
    "file": "SF15.zip",
    "bytes": 50613897,
-   "sha256": "65a82a84002e3522b896b9c3f65b736411d8772bdafd39cd32225f8307810bf6"
+   "sha256": "65a82a84002e3522b896b9c3f65b736411d8772bdafd39cd32225f8307810bf6",
+   "subject": "15"
   },
   {
    "file": "SF16.zip",
    "bytes": 52792959,
-   "sha256": "c8f2ca97876ad4f455bdd7a6e3f0cec46f4d15ab56841dc7048211fef712c172"
+   "sha256": "c8f2ca97876ad4f455bdd7a6e3f0cec46f4d15ab56841dc7048211fef712c172",
+   "subject": "16"
   }
- ]
+ ],
+ "n_subjects_recorded": 16
 }
