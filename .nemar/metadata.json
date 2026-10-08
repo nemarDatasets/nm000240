@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Checkerboard m-sequence-based c-VEP dataset from",
-  "description": "A checkerboard-stimulus, m-sequence-based code-modulated visual evoked potential (c-VEP) EEG dataset from 16 healthy participants. It was collected to evaluate how the spatial frequency of visual stimuli affects the performance and user experience of c-VEP brain-computer interfaces. Each stimulus condition is stored as a separate session with three runs (two for training, one for testing), recorded with 16 EEG channels at 256 Hz.",
-  "methods_description": "EEG was recorded from 16 channels at 256 Hz (standard_1005 montage, 50 Hz line frequency) while participants viewed binary m-sequence-modulated checkerboard stimuli. Each condition was recorded as a separate session, and each session had three runs (two for training, one for testing). The data were converted to BIDS using MOABB.",
+  "description": "A checkerboard m-sequence-based code-modulated visual evoked potential (c-VEP) EEG dataset recorded from 16 healthy participants. It was collected to evaluate how the spatial frequency of visual stimuli affects the performance and user experience of c-VEP-based brain-computer interfaces. Recordings used 16 EEG channels at 256 Hz, with eight stimulus conditions per participant and three runs each (two for training, one for testing).",
+  "methods_description": "EEG was recorded from 16 channels at 256 Hz (standard_1005 montage, 50 Hz line frequency) while participants viewed checkerboard m-sequence stimuli. The dataset was recorded in a single session, with each condition stored as a separate session to match the MOABB structure. Each session contains three runs: two for training and one for testing. Binary events (0 and 1) were annotated with HED tags.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -34,10 +34,14 @@
       "term": "c-VEP"
     },
     {
-      "term": "brain-computer interface"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
-      "term": "visual evoked potentials"
+      "term": "Evoked Potentials, Visual",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D005074"
     },
     {
       "term": "m-sequence"
@@ -100,5 +104,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "def03dc9a33e58cb992aee11f0b34799d4aaa79e4cf2f0bba554a488928e40f4"
+  "source_hash": "0bd7b5eaa9c52932dc6bef8e4a3f0870595d942ed109ad539f8001544dd73ed4"
 }
